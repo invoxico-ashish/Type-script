@@ -1,0 +1,10 @@
+"use strict";
+var ssId;
+ssId = "CITGUYQW789";
+ssId = 12365;
+// console.log(ssId);
+let anyPart;
+anyPart = "tyest";
+anyPart = 863468;
+anyPart = true;
+console.log(anyPart);

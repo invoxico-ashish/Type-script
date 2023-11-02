@@ -1,0 +1,1 @@
+// true the experimental decorators in tsconfig.js
